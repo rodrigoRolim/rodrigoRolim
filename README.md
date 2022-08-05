@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning typescript
 - 📫 How to reach me: rodrigorolimveras92@gmail
 
-[![rodrigoRolim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigorolim)](https://github.com/rodrigorolim/github-readme-stats)
+[![rodrigoRolim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigorolim&count_private=true&show_icons=true)](https://github.com/rodrigorolim/github-readme-stats)
