@@ -1,4 +1,4 @@
-### Hi everyone
+### Welcome to my personal github profile
 
 <!--
 **rodrigoRolim/rodrigoRolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
