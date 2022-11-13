@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning typescript
 - 📫 How to reach me: rodrigorolimveras92@gmail
 
-[![rodrigoRolim's GitHub stats]((https://github-readme-stats.vercel.app/api?username=rodrigorolim&show_icons=true&private_count=true&theme=radical&hide_border=true&langs_count=10&include_all_commits=true)](https://github.com/rodrigorolim/github-readme-stats)  
+[![rodrigoRolim's GitHub stats][(https://github-readme-stats.vercel.app/api?username=rodrigorolim&show_icons=true&private_count=true&theme=radical&hide_border=true&langs_count=10&include_all_commits=true)](https://github.com/rodrigorolim/github-readme-stats)  
 
 ----
 
