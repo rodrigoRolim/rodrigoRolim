@@ -3,7 +3,7 @@
 <!--
 **rodrigoRolim/rodrigoRolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on pontotel's aloque project
+- 🔭 I’m currently working at appmax company
 - 🌱 I’m currently learning typescript
 - 📫 How to reach me: rodrigorolimveras92@gmail
 
