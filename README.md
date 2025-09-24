@@ -4,7 +4,7 @@
 **rodrigoRolim/rodrigoRolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently searching for a new position as frontend developer
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently specializing in Artificial Intelligence
 - 📫 How to reach me: rodrigorolimveras92@gmail
 
 <!-- [![rodrigoRolim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigorolim&show_icons=true&private_count=false&theme=radical&hide_border=true&langs_count=10&include_all_commits=true)](https://github.com/rodrigorolim/github-readme-stats)  
